@@ -1,0 +1,26 @@
+<annotation>
+  <folder>input</folder>
+  <filename>img2019-05-28-16-24-26-434501.jpg</filename>
+  <path>D:\OpenLabeling\main\input\img2019-05-28-16-24-26-434501.jpg</path>
+  <source>
+    <database>Unknown</database>
+  </source>
+  <size>
+    <width>416</width>
+    <height>416</height>
+    <depth>3</depth>
+  </size>
+  <segmented>0</segmented>
+  <object>
+    <name>white-info-9</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>391</xmin>
+      <ymin>131</ymin>
+      <xmax>416</xmax>
+      <ymax>249</ymax>
+    </bndbox>
+  </object>
+</annotation>

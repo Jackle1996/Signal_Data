@@ -1,0 +1,26 @@
+<annotation>
+  <folder>input</folder>
+  <filename>img2019-05-28-19-16-31-385431.jpg</filename>
+  <path>D:\OpenLabeling\main\input\img2019-05-28-19-16-31-385431.jpg</path>
+  <source>
+    <database>Unknown</database>
+  </source>
+  <size>
+    <width>416</width>
+    <height>416</height>
+    <depth>3</depth>
+  </size>
+  <segmented>0</segmented>
+  <object>
+    <name>black-stop-2</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>282</xmin>
+      <ymin>209</ymin>
+      <xmax>302</xmax>
+      <ymax>240</ymax>
+    </bndbox>
+  </object>
+</annotation>
