@@ -1,0 +1,54 @@
+
+ seen 64 
+
+ calculation mAP (mean average precision)...
+
+ detections_count = 4216, unique_truth_count = 220  
+ rank = 0 of ranks = 4216  rank = 100 of ranks = 4216  rank = 200 of ranks = 4216  rank = 300 of ranks = 4216  rank = 400 of ranks = 4216  rank = 500 of ranks = 4216  rank = 600 of ranks = 4216  rank = 700 of ranks = 4216  rank = 800 of ranks = 4216  rank = 900 of ranks = 4216  rank = 1000 of ranks = 4216  rank = 1100 of ranks = 4216  rank = 1200 of ranks = 4216  rank = 1300 of ranks = 4216  rank = 1400 of ranks = 4216  rank = 1500 of ranks = 4216  rank = 1600 of ranks = 4216  rank = 1700 of ranks = 4216  rank = 1800 of ranks = 4216  rank = 1900 of ranks = 4216  rank = 2000 of ranks = 4216  rank = 2100 of ranks = 4216  rank = 2200 of ranks = 4216  rank = 2300 of ranks = 4216  rank = 2400 of ranks = 4216  rank = 2500 of ranks = 4216  rank = 2600 of ranks = 4216  rank = 2700 of ranks = 4216  rank = 2800 of ranks = 4216  rank = 2900 of ranks = 4216  rank = 3000 of ranks = 4216  rank = 3100 of ranks = 4216  rank = 3200 of ranks = 4216  rank = 3300 of ranks = 4216  rank = 3400 of ranks = 4216  rank = 3500 of ranks = 4216  rank = 3600 of ranks = 4216  rank = 3700 of ranks = 4216  rank = 3800 of ranks = 4216  rank = 3900 of ranks = 4216  rank = 4000 of ranks = 4216  rank = 4100 of ranks = 4216  rank = 4200 of ranks = 4216 class_id = 0, name = white-info-1, ap = 78.60%   	 (TP = 2, FP = 0) 
+class_id = 1, name = white-info-2, ap = 60.00%   	 (TP = 2, FP = 1) 
+class_id = 2, name = white-info-3, ap = 48.81%   	 (TP = 0, FP = 0) 
+class_id = 3, name = white-info-4, ap = 85.89%   	 (TP = 5, FP = 0) 
+class_id = 4, name = white-info-5, ap = 58.05%   	 (TP = 1, FP = 0) 
+class_id = 5, name = white-info-6, ap = 85.39%   	 (TP = 5, FP = 0) 
+class_id = 6, name = white-info-7, ap = 0.00%   	 (TP = 0, FP = 0) 
+class_id = 7, name = white-info-8, ap = 66.39%   	 (TP = 1, FP = 0) 
+class_id = 8, name = white-info-9, ap = 50.38%   	 (TP = 1, FP = 0) 
+class_id = 9, name = black-info-1, ap = 28.56%   	 (TP = 0, FP = 0) 
+class_id = 10, name = black-info-2, ap = 41.19%   	 (TP = 1, FP = 0) 
+class_id = 11, name = black-info-3, ap = 81.34%   	 (TP = 1, FP = 0) 
+class_id = 12, name = black-info-4, ap = 26.67%   	 (TP = 0, FP = 0) 
+class_id = 13, name = black-info-5, ap = 23.72%   	 (TP = 0, FP = 0) 
+class_id = 14, name = black-info-6, ap = 57.21%   	 (TP = 1, FP = 0) 
+class_id = 15, name = black-info-7, ap = 77.95%   	 (TP = 6, FP = 0) 
+class_id = 16, name = black-info-8, ap = 78.33%   	 (TP = 0, FP = 1) 
+class_id = 17, name = black-info-9, ap = 37.11%   	 (TP = 0, FP = 0) 
+class_id = 18, name = white-stop-1, ap = 77.66%   	 (TP = 2, FP = 1) 
+class_id = 19, name = white-stop-2, ap = 11.11%   	 (TP = 0, FP = 0) 
+class_id = 20, name = white-stop-3, ap = 43.14%   	 (TP = 1, FP = 1) 
+class_id = 21, name = white-stop-4, ap = 32.14%   	 (TP = 0, FP = 0) 
+class_id = 22, name = white-stop-5, ap = 20.00%   	 (TP = 0, FP = 0) 
+class_id = 23, name = white-stop-6, ap = 57.92%   	 (TP = 2, FP = 0) 
+class_id = 24, name = white-stop-7, ap = 58.73%   	 (TP = 0, FP = 0) 
+class_id = 25, name = white-stop-8, ap = 27.38%   	 (TP = 0, FP = 0) 
+class_id = 26, name = white-stop-9, ap = 18.80%   	 (TP = 0, FP = 0) 
+class_id = 27, name = black-stop-1, ap = 11.51%   	 (TP = 0, FP = 0) 
+class_id = 28, name = black-stop-2, ap = 35.48%   	 (TP = 1, FP = 0) 
+class_id = 29, name = black-stop-3, ap = 39.33%   	 (TP = 0, FP = 0) 
+class_id = 30, name = black-stop-4, ap = 56.02%   	 (TP = 2, FP = 0) 
+class_id = 31, name = black-stop-5, ap = 95.83%   	 (TP = 4, FP = 0) 
+class_id = 32, name = black-stop-6, ap = 64.42%   	 (TP = 1, FP = 0) 
+class_id = 33, name = black-stop-7, ap = 72.22%   	 (TP = 0, FP = 0) 
+class_id = 34, name = black-stop-8, ap = 9.50%   	 (TP = 0, FP = 0) 
+class_id = 35, name = black-stop-9, ap = 22.55%   	 (TP = 0, FP = 0) 
+class_id = 36, name = start, ap = 51.93%   	 (TP = 0, FP = 0) 
+
+ for thresh = 0.50, precision = 0.91, recall = 0.18, F1-score = 0.30 
+ for thresh = 0.50, TP = 39, FP = 4, FN = 181, average IoU = 71.59 % 
+
+ IoU threshold = 50 %, used Area-Under-Curve for each unique Recall 
+ mean average precision (mAP@0.50) = 0.484120, or 48.41 % 
+
+Set -points flag:
+ `-points 101` for MS COCO 
+ `-points 11` for PascalVOC 2007 (uncomment `difficult` in voc.data) 
+ `-points 0` (AUC) for ImageNet, PascalVOC 2010-2012, your custom dataset

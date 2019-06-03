@@ -1,0 +1,54 @@
+
+ seen 64 
+
+ calculation mAP (mean average precision)...
+
+ detections_count = 8304, unique_truth_count = 220  
+ rank = 0 of ranks = 8304  rank = 100 of ranks = 8304  rank = 200 of ranks = 8304  rank = 300 of ranks = 8304  rank = 400 of ranks = 8304  rank = 500 of ranks = 8304  rank = 600 of ranks = 8304  rank = 700 of ranks = 8304  rank = 800 of ranks = 8304  rank = 900 of ranks = 8304  rank = 1000 of ranks = 8304  rank = 1100 of ranks = 8304  rank = 1200 of ranks = 8304  rank = 1300 of ranks = 8304  rank = 1400 of ranks = 8304  rank = 1500 of ranks = 8304  rank = 1600 of ranks = 8304  rank = 1700 of ranks = 8304  rank = 1800 of ranks = 8304  rank = 1900 of ranks = 8304  rank = 2000 of ranks = 8304  rank = 2100 of ranks = 8304  rank = 2200 of ranks = 8304  rank = 2300 of ranks = 8304  rank = 2400 of ranks = 8304  rank = 2500 of ranks = 8304  rank = 2600 of ranks = 8304  rank = 2700 of ranks = 8304  rank = 2800 of ranks = 8304  rank = 2900 of ranks = 8304  rank = 3000 of ranks = 8304  rank = 3100 of ranks = 8304  rank = 3200 of ranks = 8304  rank = 3300 of ranks = 8304  rank = 3400 of ranks = 8304  rank = 3500 of ranks = 8304  rank = 3600 of ranks = 8304  rank = 3700 of ranks = 8304  rank = 3800 of ranks = 8304  rank = 3900 of ranks = 8304  rank = 4000 of ranks = 8304  rank = 4100 of ranks = 8304  rank = 4200 of ranks = 8304  rank = 4300 of ranks = 8304  rank = 4400 of ranks = 8304  rank = 4500 of ranks = 8304  rank = 4600 of ranks = 8304  rank = 4700 of ranks = 8304  rank = 4800 of ranks = 8304  rank = 4900 of ranks = 8304  rank = 5000 of ranks = 8304  rank = 5100 of ranks = 8304  rank = 5200 of ranks = 8304  rank = 5300 of ranks = 8304  rank = 5400 of ranks = 8304  rank = 5500 of ranks = 8304  rank = 5600 of ranks = 8304  rank = 5700 of ranks = 8304  rank = 5800 of ranks = 8304  rank = 5900 of ranks = 8304  rank = 6000 of ranks = 8304  rank = 6100 of ranks = 8304  rank = 6200 of ranks = 8304  rank = 6300 of ranks = 8304  rank = 6400 of ranks = 8304  rank = 6500 of ranks = 8304  rank = 6600 of ranks = 8304  rank = 6700 of ranks = 8304  rank = 6800 of ranks = 8304  rank = 6900 of ranks = 8304  rank = 7000 of ranks = 8304  rank = 7100 of ranks = 8304  rank = 7200 of ranks = 8304  rank = 7300 of ranks = 8304  rank = 7400 of ranks = 8304  rank = 7500 of ranks = 8304  rank = 7600 of ranks = 8304  rank = 7700 of ranks = 8304  rank = 7800 of ranks = 8304  rank = 7900 of ranks = 8304  rank = 8000 of ranks = 8304  rank = 8100 of ranks = 8304  rank = 8200 of ranks = 8304  rank = 8300 of ranks = 8304 class_id = 0, name = white-info-1, ap = 0.29%   	 (TP = 0, FP = 0) 
+class_id = 1, name = white-info-2, ap = 43.81%   	 (TP = 0, FP = 0) 
+class_id = 2, name = white-info-3, ap = 5.04%   	 (TP = 0, FP = 0) 
+class_id = 3, name = white-info-4, ap = 22.56%   	 (TP = 0, FP = 0) 
+class_id = 4, name = white-info-5, ap = 10.05%   	 (TP = 1, FP = 0) 
+class_id = 5, name = white-info-6, ap = 27.61%   	 (TP = 0, FP = 0) 
+class_id = 6, name = white-info-7, ap = 0.00%   	 (TP = 0, FP = 0) 
+class_id = 7, name = white-info-8, ap = 6.89%   	 (TP = 0, FP = 0) 
+class_id = 8, name = white-info-9, ap = 33.92%   	 (TP = 0, FP = 0) 
+class_id = 9, name = black-info-1, ap = 3.62%   	 (TP = 0, FP = 0) 
+class_id = 10, name = black-info-2, ap = 2.38%   	 (TP = 0, FP = 0) 
+class_id = 11, name = black-info-3, ap = 21.78%   	 (TP = 0, FP = 0) 
+class_id = 12, name = black-info-4, ap = 0.68%   	 (TP = 0, FP = 0) 
+class_id = 13, name = black-info-5, ap = 1.31%   	 (TP = 0, FP = 0) 
+class_id = 14, name = black-info-6, ap = 4.26%   	 (TP = 0, FP = 0) 
+class_id = 15, name = black-info-7, ap = 26.08%   	 (TP = 0, FP = 0) 
+class_id = 16, name = black-info-8, ap = 4.75%   	 (TP = 0, FP = 0) 
+class_id = 17, name = black-info-9, ap = 2.15%   	 (TP = 0, FP = 0) 
+class_id = 18, name = white-stop-1, ap = 2.66%   	 (TP = 0, FP = 0) 
+class_id = 19, name = white-stop-2, ap = 1.56%   	 (TP = 0, FP = 0) 
+class_id = 20, name = white-stop-3, ap = 8.38%   	 (TP = 0, FP = 0) 
+class_id = 21, name = white-stop-4, ap = 1.75%   	 (TP = 0, FP = 0) 
+class_id = 22, name = white-stop-5, ap = 10.00%   	 (TP = 0, FP = 0) 
+class_id = 23, name = white-stop-6, ap = 37.58%   	 (TP = 1, FP = 0) 
+class_id = 24, name = white-stop-7, ap = 18.54%   	 (TP = 0, FP = 0) 
+class_id = 25, name = white-stop-8, ap = 1.27%   	 (TP = 0, FP = 0) 
+class_id = 26, name = white-stop-9, ap = 1.26%   	 (TP = 0, FP = 0) 
+class_id = 27, name = black-stop-1, ap = 5.80%   	 (TP = 0, FP = 0) 
+class_id = 28, name = black-stop-2, ap = 21.48%   	 (TP = 0, FP = 0) 
+class_id = 29, name = black-stop-3, ap = 10.22%   	 (TP = 0, FP = 0) 
+class_id = 30, name = black-stop-4, ap = 18.15%   	 (TP = 0, FP = 0) 
+class_id = 31, name = black-stop-5, ap = 25.71%   	 (TP = 0, FP = 0) 
+class_id = 32, name = black-stop-6, ap = 25.46%   	 (TP = 0, FP = 0) 
+class_id = 33, name = black-stop-7, ap = 37.75%   	 (TP = 0, FP = 0) 
+class_id = 34, name = black-stop-8, ap = 5.78%   	 (TP = 0, FP = 0) 
+class_id = 35, name = black-stop-9, ap = 9.76%   	 (TP = 0, FP = 0) 
+class_id = 36, name = start, ap = 8.50%   	 (TP = 0, FP = 0) 
+
+ for thresh = 0.50, precision = 1.00, recall = 0.01, F1-score = 0.02 
+ for thresh = 0.50, TP = 2, FP = 0, FN = 218, average IoU = 66.93 % 
+
+ IoU threshold = 50 %, used Area-Under-Curve for each unique Recall 
+ mean average precision (mAP@0.50) = 0.126699, or 12.67 % 
+
+Set -points flag:
+ `-points 101` for MS COCO 
+ `-points 11` for PascalVOC 2007 (uncomment `difficult` in voc.data) 
+ `-points 0` (AUC) for ImageNet, PascalVOC 2010-2012, your custom dataset

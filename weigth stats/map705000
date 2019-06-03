@@ -1,0 +1,54 @@
+
+ seen 64 
+
+ calculation mAP (mean average precision)...
+
+ detections_count = 2914, unique_truth_count = 220  
+ rank = 0 of ranks = 2914  rank = 100 of ranks = 2914  rank = 200 of ranks = 2914  rank = 300 of ranks = 2914  rank = 400 of ranks = 2914  rank = 500 of ranks = 2914  rank = 600 of ranks = 2914  rank = 700 of ranks = 2914  rank = 800 of ranks = 2914  rank = 900 of ranks = 2914  rank = 1000 of ranks = 2914  rank = 1100 of ranks = 2914  rank = 1200 of ranks = 2914  rank = 1300 of ranks = 2914  rank = 1400 of ranks = 2914  rank = 1500 of ranks = 2914  rank = 1600 of ranks = 2914  rank = 1700 of ranks = 2914  rank = 1800 of ranks = 2914  rank = 1900 of ranks = 2914  rank = 2000 of ranks = 2914  rank = 2100 of ranks = 2914  rank = 2200 of ranks = 2914  rank = 2300 of ranks = 2914  rank = 2400 of ranks = 2914  rank = 2500 of ranks = 2914  rank = 2600 of ranks = 2914  rank = 2700 of ranks = 2914  rank = 2800 of ranks = 2914  rank = 2900 of ranks = 2914 class_id = 0, name = white-info-1, ap = 90.48%   	 (TP = 4, FP = 0) 
+class_id = 1, name = white-info-2, ap = 88.50%   	 (TP = 3, FP = 0) 
+class_id = 2, name = white-info-3, ap = 78.57%   	 (TP = 4, FP = 3) 
+class_id = 3, name = white-info-4, ap = 95.00%   	 (TP = 8, FP = 2) 
+class_id = 4, name = white-info-5, ap = 91.96%   	 (TP = 5, FP = 0) 
+class_id = 5, name = white-info-6, ap = 98.00%   	 (TP = 14, FP = 1) 
+class_id = 6, name = white-info-7, ap = 10.00%   	 (TP = 0, FP = 0) 
+class_id = 7, name = white-info-8, ap = 94.81%   	 (TP = 2, FP = 0) 
+class_id = 8, name = white-info-9, ap = 95.00%   	 (TP = 1, FP = 0) 
+class_id = 9, name = black-info-1, ap = 81.00%   	 (TP = 0, FP = 0) 
+class_id = 10, name = black-info-2, ap = 95.00%   	 (TP = 3, FP = 0) 
+class_id = 11, name = black-info-3, ap = 92.50%   	 (TP = 8, FP = 0) 
+class_id = 12, name = black-info-4, ap = 55.56%   	 (TP = 0, FP = 0) 
+class_id = 13, name = black-info-5, ap = 66.67%   	 (TP = 1, FP = 1) 
+class_id = 14, name = black-info-6, ap = 87.73%   	 (TP = 9, FP = 0) 
+class_id = 15, name = black-info-7, ap = 99.45%   	 (TP = 10, FP = 0) 
+class_id = 16, name = black-info-8, ap = 100.00%   	 (TP = 6, FP = 1) 
+class_id = 17, name = black-info-9, ap = 53.33%   	 (TP = 1, FP = 0) 
+class_id = 18, name = white-stop-1, ap = 92.86%   	 (TP = 5, FP = 1) 
+class_id = 19, name = white-stop-2, ap = 28.58%   	 (TP = 0, FP = 0) 
+class_id = 20, name = white-stop-3, ap = 71.88%   	 (TP = 3, FP = 1) 
+class_id = 21, name = white-stop-4, ap = 36.22%   	 (TP = 0, FP = 0) 
+class_id = 22, name = white-stop-5, ap = 50.00%   	 (TP = 0, FP = 0) 
+class_id = 23, name = white-stop-6, ap = 69.13%   	 (TP = 4, FP = 3) 
+class_id = 24, name = white-stop-7, ap = 100.00%   	 (TP = 1, FP = 0) 
+class_id = 25, name = white-stop-8, ap = 48.59%   	 (TP = 0, FP = 0) 
+class_id = 26, name = white-stop-9, ap = 32.50%   	 (TP = 0, FP = 0) 
+class_id = 27, name = black-stop-1, ap = 47.67%   	 (TP = 0, FP = 0) 
+class_id = 28, name = black-stop-2, ap = 49.33%   	 (TP = 1, FP = 0) 
+class_id = 29, name = black-stop-3, ap = 71.67%   	 (TP = 0, FP = 0) 
+class_id = 30, name = black-stop-4, ap = 78.09%   	 (TP = 3, FP = 0) 
+class_id = 31, name = black-stop-5, ap = 97.62%   	 (TP = 6, FP = 1) 
+class_id = 32, name = black-stop-6, ap = 79.00%   	 (TP = 1, FP = 0) 
+class_id = 33, name = black-stop-7, ap = 100.00%   	 (TP = 0, FP = 0) 
+class_id = 34, name = black-stop-8, ap = 46.67%   	 (TP = 0, FP = 0) 
+class_id = 35, name = black-stop-9, ap = 48.14%   	 (TP = 2, FP = 0) 
+class_id = 36, name = start, ap = 69.21%   	 (TP = 6, FP = 0) 
+
+ for thresh = 0.50, precision = 0.89, recall = 0.50, F1-score = 0.64 
+ for thresh = 0.50, TP = 111, FP = 14, FN = 109, average IoU = 72.28 % 
+
+ IoU threshold = 50 %, used Area-Under-Curve for each unique Recall 
+ mean average precision (mAP@0.50) = 0.727217, or 72.72 % 
+
+Set -points flag:
+ `-points 101` for MS COCO 
+ `-points 11` for PascalVOC 2007 (uncomment `difficult` in voc.data) 
+ `-points 0` (AUC) for ImageNet, PascalVOC 2010-2012, your custom dataset

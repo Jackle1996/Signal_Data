@@ -1,0 +1,54 @@
+
+ seen 64 
+
+ calculation mAP (mean average precision)...
+
+ detections_count = 2175, unique_truth_count = 220  
+ rank = 0 of ranks = 2175  rank = 100 of ranks = 2175  rank = 200 of ranks = 2175  rank = 300 of ranks = 2175  rank = 400 of ranks = 2175  rank = 500 of ranks = 2175  rank = 600 of ranks = 2175  rank = 700 of ranks = 2175  rank = 800 of ranks = 2175  rank = 900 of ranks = 2175  rank = 1000 of ranks = 2175  rank = 1100 of ranks = 2175  rank = 1200 of ranks = 2175  rank = 1300 of ranks = 2175  rank = 1400 of ranks = 2175  rank = 1500 of ranks = 2175  rank = 1600 of ranks = 2175  rank = 1700 of ranks = 2175  rank = 1800 of ranks = 2175  rank = 1900 of ranks = 2175  rank = 2000 of ranks = 2175  rank = 2100 of ranks = 2175 class_id = 0, name = white-info-1, ap = 100.00%   	 (TP = 5, FP = 0) 
+class_id = 1, name = white-info-2, ap = 96.67%   	 (TP = 3, FP = 0) 
+class_id = 2, name = white-info-3, ap = 96.43%   	 (TP = 7, FP = 1) 
+class_id = 3, name = white-info-4, ap = 100.00%   	 (TP = 8, FP = 1) 
+class_id = 4, name = white-info-5, ap = 100.00%   	 (TP = 6, FP = 0) 
+class_id = 5, name = white-info-6, ap = 100.00%   	 (TP = 15, FP = 0) 
+class_id = 6, name = white-info-7, ap = 50.00%   	 (TP = 0, FP = 0) 
+class_id = 7, name = white-info-8, ap = 98.21%   	 (TP = 6, FP = 0) 
+class_id = 8, name = white-info-9, ap = 100.00%   	 (TP = 3, FP = 0) 
+class_id = 9, name = black-info-1, ap = 88.89%   	 (TP = 3, FP = 0) 
+class_id = 10, name = black-info-2, ap = 100.00%   	 (TP = 4, FP = 1) 
+class_id = 11, name = black-info-3, ap = 94.00%   	 (TP = 9, FP = 0) 
+class_id = 12, name = black-info-4, ap = 66.67%   	 (TP = 1, FP = 0) 
+class_id = 13, name = black-info-5, ap = 86.67%   	 (TP = 2, FP = 1) 
+class_id = 14, name = black-info-6, ap = 89.38%   	 (TP = 11, FP = 1) 
+class_id = 15, name = black-info-7, ap = 100.00%   	 (TP = 12, FP = 0) 
+class_id = 16, name = black-info-8, ap = 95.24%   	 (TP = 6, FP = 2) 
+class_id = 17, name = black-info-9, ap = 86.67%   	 (TP = 1, FP = 0) 
+class_id = 18, name = white-stop-1, ap = 97.62%   	 (TP = 6, FP = 1) 
+class_id = 19, name = white-stop-2, ap = 90.00%   	 (TP = 0, FP = 0) 
+class_id = 20, name = white-stop-3, ap = 91.11%   	 (TP = 4, FP = 1) 
+class_id = 21, name = white-stop-4, ap = 65.28%   	 (TP = 1, FP = 0) 
+class_id = 22, name = white-stop-5, ap = 100.00%   	 (TP = 0, FP = 0) 
+class_id = 23, name = white-stop-6, ap = 87.52%   	 (TP = 6, FP = 6) 
+class_id = 24, name = white-stop-7, ap = 100.00%   	 (TP = 3, FP = 0) 
+class_id = 25, name = white-stop-8, ap = 73.85%   	 (TP = 1, FP = 0) 
+class_id = 26, name = white-stop-9, ap = 53.33%   	 (TP = 0, FP = 0) 
+class_id = 27, name = black-stop-1, ap = 60.10%   	 (TP = 0, FP = 0) 
+class_id = 28, name = black-stop-2, ap = 68.89%   	 (TP = 2, FP = 1) 
+class_id = 29, name = black-stop-3, ap = 70.73%   	 (TP = 2, FP = 0) 
+class_id = 30, name = black-stop-4, ap = 92.38%   	 (TP = 3, FP = 0) 
+class_id = 31, name = black-stop-5, ap = 100.00%   	 (TP = 6, FP = 1) 
+class_id = 32, name = black-stop-6, ap = 82.69%   	 (TP = 3, FP = 0) 
+class_id = 33, name = black-stop-7, ap = 100.00%   	 (TP = 3, FP = 0) 
+class_id = 34, name = black-stop-8, ap = 96.67%   	 (TP = 0, FP = 0) 
+class_id = 35, name = black-stop-9, ap = 59.80%   	 (TP = 2, FP = 0) 
+class_id = 36, name = start, ap = 75.58%   	 (TP = 6, FP = 0) 
+
+ for thresh = 0.50, precision = 0.90, recall = 0.68, F1-score = 0.78 
+ for thresh = 0.50, TP = 150, FP = 17, FN = 70, average IoU = 73.32 % 
+
+ IoU threshold = 50 %, used Area-Under-Curve for each unique Recall 
+ mean average precision (mAP@0.50) = 0.868745, or 86.87 % 
+
+Set -points flag:
+ `-points 101` for MS COCO 
+ `-points 11` for PascalVOC 2007 (uncomment `difficult` in voc.data) 
+ `-points 0` (AUC) for ImageNet, PascalVOC 2010-2012, your custom dataset
