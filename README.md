@@ -19,6 +19,9 @@ pip install -r requirements.txt
 ## Classes
 [available classes](main/class_list.txt)
 
+## YOLOv3
+[used Yolov3 Tiny config](/yolo_v3_config/yolov3-tiny-custom.cfg)
+
 
 ## Statistic
 True Positive = Signals which got predicted right. Example: we have a 6, we predict a 6 which is true
